@@ -1,0 +1,17 @@
+[parity]
+chain = "dev"
+base_path = "./base"
+db_path = "./db"
+
+[account]
+unlock = ["0x0e93c5ab1a98537638a722ee5d0697a8c78c59c6", "0xe16924b0a64e6abb9ff64aa82f85388b2b3f1c93"]
+password = ["./password", "./password"]
+
+[rpc]
+port = 8545
+apis = ["all"]
+cors = ["all"]
+
+[ipc]
+path = "./ipc"
+apis = ["all"]

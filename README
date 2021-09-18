@@ -1,0 +1,16 @@
+How to launch
+
+`zsh ./init.zsh`
+
+
+Accounts
+
+keystore: ./keystore0.json
+address: 0x0e93c5ab1a98537638a722ee5d0697a8c78c59c6
+privatekey: 0x784492e33533d01bc2de59b8f7dd5bde8fe59aefcb96cb441090419829791b69
+password: neo3
+
+keystore: ./keystore1.json
+address: 0xe16924b0a64e6abb9ff64aa82f85388b2b3f1c93
+privatekey: 0xa34578623bea9f7c8d394099554aae59f13732513a7615cc3348fca5de392c1f
+password: neo3
