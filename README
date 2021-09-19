@@ -1,6 +1,10 @@
-How to launch
+How to launch Openethereum
 
-`zsh ./init.zsh`
+`make openethereum`
+
+How to launch rust-web3-practice
+
+`cd rust-web3-practice; cargo run http://localhost:8545`
 
 
 Accounts
