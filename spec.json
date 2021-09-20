@@ -1,5 +1,5 @@
 {
-    "name": "neo3_chain",
+    "name": "Neo3",
     "engine": {
         "instantSeal": {
             "params": {}
@@ -21,7 +21,7 @@
     },
     "accounts": {
         "0x0e93c5ab1a98537638a722ee5d0697a8c78c59c6": {
-            "balance": "0x10000000000000000000000"
+            "balance": "0x10000000000000000000"
         }
     }
 }
