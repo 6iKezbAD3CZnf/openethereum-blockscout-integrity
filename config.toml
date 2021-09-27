@@ -5,13 +5,13 @@
 chain = "./spec.json"
 # keys_path
 base_path = "./base"
-db_path = "./db"
+db_path = "./base/chains"
 
 [account]
 # fast_unlock
 # keys_iterations
 # refresh_time
-unlock = ["0x0e93c5ab1a98537638a722ee5d0697a8c78c59c6", "0xe16924b0a64e6abb9ff64aa82f85388b2b3f1c93"]
+unlock = ["0x5e62ac630a99bed73d70b8710f4360d052e04986", "0xf35a97a879a7ae3ac29ca474c8f460a6f2a3bb06"]
 password = ["./password", "./password"]
 
 [ui]
