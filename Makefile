@@ -1,10 +1,10 @@
 openethereum_run:
-	/usr/bin/openethereum --config config.toml account import keystore0.json
-	/usr/bin/openethereum --config config.toml account import keystore1.json
-	/usr/bin/openethereum --config config.toml
+	openethereum --config config.toml account import keystore0.json
+	openethereum --config config.toml account import keystore1.json
+	openethereum --config config.toml
 
 blockscout_run:
-	NETWORK="Neo3" \
+	NETWORK="Private" \
 	SUBNETWORK="Core" \
 	LOGO="/images/blockscout_logo.svg" \
 	LOGO_FOOTER="/images/blockscout_logo.svg" \

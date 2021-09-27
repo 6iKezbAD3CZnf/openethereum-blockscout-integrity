@@ -1,10 +1,10 @@
-How to launch Openethereum
+How to launch OpenEthereum
 
-`make openethereum`
+`make openethereum_run`
 
-How to launch rust-web3-practice
+How to launch BlockScout
 
-`cd rust-web3-practice; cargo run http://localhost:8545`
+`make blockscout_run`
 
 
 Accounts
